@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FormDangKy</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="TroLai">Trở Lại</string>
+    <string name="trolai">Trở Lại</string>
+    <string name="back">Back</string>
+    <string name="Ten">Tên</string>
+    <string name="name">Name</string>
+    <string name="SDT">SĐT</string>
+    <string name="lbSDT">SĐT</string>
+    <string name="GioiTinh">Giới Tính</string>
+    <string name="Nam">Nam</string>
+    <string name="Nu">Nữ</string>
+    <string name="QuocTich">Quốc Tịch</string>
+    <string name="ChuThich">chú Thích</string>
+    <string name="tbTen">Tên</string>
+    <string name="tbSDT">SĐT</string>
+    <string name="htTen">Tên</string>
+    <string name="htSDT">SĐT</string>
+    <string name="TTDK">Thông tin đăng ký</string>
+    <string name="huy">Hủy</string>
+    <string name="hint">hint</string>
+</resources>
